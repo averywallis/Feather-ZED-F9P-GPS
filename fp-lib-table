@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Feather-ZED-F9P-GPS)(type KiCad)(uri ${KIPRJMOD}/Feather-ZED-F9P-GPS.pretty)(options "")(descr ""))
+)
